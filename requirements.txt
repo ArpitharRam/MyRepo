@@ -1,0 +1,11 @@
+Flask==3.0.0  # Web framework
+Flask-SQLAlchemy==3.1.1  # ORM for database interactions
+Flask-Login==0.6.3  # User authentication
+Flask-WTF==1.2.1  # Forms handling
+WTForms==3.1.2  # Form validation
+Flask-Migrate==4.0.5  # Database migrations
+psycopg2==2.9.9  # PostgreSQL adapter (use sqlite3 for SQLite)
+SQLAlchemy==2.0.25  # Database ORM
+python-dotenv==1.0.1  # Environment variables management
+requests==2.31.0  # HTTP requests handling
+Pillow==10.1.0  # Image handling (for book covers, etc.)
